@@ -2,7 +2,7 @@ import { Calendar } from 'react-native-calendars';
 import { View } from 'react-native';
 import React from 'react';
 
-export default class Example extends React.Component {
+export default class Calendar extends React.Component {
   render() {
     return (
       <View style={{ paddingTop: 50, flex: 1 }}>
